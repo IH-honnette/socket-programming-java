@@ -1,0 +1,5 @@
+#directories to be ignored
+
+.idea/
+downloads/
+extractedLinks/
